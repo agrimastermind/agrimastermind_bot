@@ -1,0 +1,3 @@
+# constraints.txt
+cryptography==39.0.1
+certifi==2023.7.22
